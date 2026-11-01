@@ -44,7 +44,7 @@ export interface Content {
 
 const en: Content = {
   meta: {
-    title: 'Tiến — Angular Frontend Developer',
+    title: 'Tien Bui — Angular Frontend Developer',
     description:
       'Angular frontend developer building fast, maintainable web apps: admin dashboards, API integrations, complex forms and responsive UIs.',
   },
