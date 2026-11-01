@@ -3,7 +3,7 @@
  * Values marked TODO are placeholders.
  */
 export const SITE = {
-  name: 'Tiến', // TODO: your full name
+  name: 'Tien Bui', // TODO: your full name
   email: 'tiennd03@gmail.com',
   github: 'https://github.com/tiennd03',
   linkedin: '', // TODO: your LinkedIn URL (leave empty to hide)
@@ -28,25 +28,25 @@ export const PROJECT_LINKS: ProjectLink[] = [
   {
     id: 'shop-admin',
     repo: 'https://github.com/tiennd03/shop-admin',
-    demo: 'https://my-repo-0511.web.app',
+    demo: 'https://tiennd-shop-admin.web.app',
     tags: ['Angular', 'Firebase', 'Angular Material', 'Chart.js'],
   },
   {
     id: 'world-explorer',
     repo: 'https://github.com/tiennd03/world-explorer',
-    demo: '', // TODO
+    demo: 'https://tiennd-world-explorer.web.app/', // TODO
     tags: ['Angular', 'REST API', 'RxJS', 'Tailwind'],
   },
   {
     id: 'taskflow',
     repo: 'https://github.com/tiennd03/taskflow',
-    demo: '', // TODO
+    demo: 'https://tiennd-taskflow.web.app/', // TODO
     tags: ['Angular CDK', 'NgRx SignalStore', 'Unit tests', 'Tailwind'],
   },
   {
     id: 'trip-booking',
     repo: 'https://github.com/tiennd03/trip-booking',
-    demo: '', // TODO
+    demo: 'https://tiennd-trip.web.app/', // TODO
     tags: ['Reactive Forms', 'Custom validators', 'ControlValueAccessor'],
   },
 ];
