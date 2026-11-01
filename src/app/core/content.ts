@@ -156,7 +156,7 @@ const vi: Content = {
       'Tôi xây dựng ứng dụng web nhanh, dễ bảo trì bằng Angular và TypeScript — từ trang quản trị đến form phức tạp và giao diện kết nối API.',
     ctaPrimary: 'Xem dự án',
     ctaSecondary: 'Liên hệ',
-    available: 'Đang nhận dự án freelance',
+    available: 'Đang nhận dự án Freelance',
   },
   about: {
     title: 'Về tôi',

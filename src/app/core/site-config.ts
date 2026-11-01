@@ -9,7 +9,7 @@ export const SITE = {
   linkedin: '', // TODO: your LinkedIn URL (leave empty to hide)
   upwork: '', // TODO: your Upwork profile URL (leave empty to hide)
   cvUrl: '', // TODO: link to a PDF CV (leave empty to hide the button)
-  siteUrl: 'https://YOUR-PROJECT.web.app', // TODO: the deployed URL, used for SEO tags
+  siteUrl: 'https://tiennd-portfolio.web.app', // TODO: the deployed URL, used for SEO tags
   /**
    * Optional: a free Formspree form id (https://formspree.io) so the contact form sends email directly.
    * Leave empty and the form opens the visitor's email app instead.
