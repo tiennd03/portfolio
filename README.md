@@ -4,7 +4,7 @@ My personal landing page: who I am, the projects I've built, how I work with cli
 
 Built with **Angular 20** and **Tailwind CSS 4**, and **prerendered at build time** (static site generation) so the page loads instantly and is fully readable by search engines.
 
-> **Live site:** _add your deployed URL here_
+> **Live site:** _[https://tiennd-portfolio.web.app](https://tiennd-portfolio.web.app/)_
 
 ## Features
 
